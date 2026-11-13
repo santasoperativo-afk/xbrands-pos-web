@@ -1,0 +1,23 @@
+{
+  "version": "0.18.0",
+  "notes": "v0.18: pantalla de comandas tipo kanban con sonido, respaldo impreso y tiempos de cocina",
+  "pub_date": "2026-11-13T18:10:10.514Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1gwVlZUVG5jUE1ZNWFqdlM2YS9xMEZSODFIVjhZaUdGMWpPUnF1eTlxaGRINk1DamI5WHRKVVNXRE4yNE9aZ3dzVnJhVXN2U3hFM3k2d2NnV0RkSmxJMHF1T1dlUWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTkyOTA5CWZpbGU6WCBCcmFuZHMgUE9TXzAuMTguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xOC4wCmZMRWorYjBkaEFMZ01hbFovclNsYUxEQzBQZ0Rhak1sZVkyQzU1WWozOU55MkQ2RDdHeFRoTG9ONEx2bEthVWx6VjgrNlFVWGhleHc4cHZwcEptOEFRPT0K",
+      "url": "https://santasoperativo-afk.github.io/xbrands-pos-web/updates/XBrandsPOS_0.18.0_setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1gwVlZUVG5jUEUxL2g3Y0ZMelo0SXd0REFhTytKd3NUdm5ucWFDQllCb3lacTVhUVBYaVZjaDAySko5RFNzaEVzam10cm5VWWFuTDdXTStLWEc1R1BjVi9zRmVWQXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTkzMzcxCWZpbGU6WCBCcmFuZHMgUE9TLmFwcC50YXIuZ3oJdmVyc2lvbjowLjE4LjAKVC82cFpSYlorVThNUThrYnliTTQ1dkNXTUtMOGpqMlNzdHdHZWQ1bXdOdlJPVjUrOVFUcXY5REh5MjByZWtXeW9ZejZyRDBDbUxYUE5YbXppRytlQWc9PQo=",
+      "url": "https://santasoperativo-afk.github.io/xbrands-pos-web/updates/XBrandsPOS_0.18.0_mac.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1gwVlZUVG5jUEUxL2g3Y0ZMelo0SXd0REFhTytKd3NUdm5ucWFDQllCb3lacTVhUVBYaVZjaDAySko5RFNzaEVzam10cm5VWWFuTDdXTStLWEc1R1BjVi9zRmVWQXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTkzMzcxCWZpbGU6WCBCcmFuZHMgUE9TLmFwcC50YXIuZ3oJdmVyc2lvbjowLjE4LjAKVC82cFpSYlorVThNUThrYnliTTQ1dkNXTUtMOGpqMlNzdHdHZWQ1bXdOdlJPVjUrOVFUcXY5REh5MjByZWtXeW9ZejZyRDBDbUxYUE5YbXppRytlQWc9PQo=",
+      "url": "https://santasoperativo-afk.github.io/xbrands-pos-web/updates/XBrandsPOS_0.18.0_mac.app.tar.gz"
+    }
+  },
+  "android": {
+    "version": "0.18.0",
+    "url": "https://santasoperativo-afk.github.io/xbrands-pos-web/descargas/XBrandsPOS.apk"
+  }
+}
