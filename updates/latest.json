@@ -1,0 +1,23 @@
+{
+  "version": "0.23.2",
+  "notes": "v0.23.2: al quitar un producto, cocina o barra sale sola según el área del producto",
+  "pub_date": "2026-11-20T02:44:43.462Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1gwVlZUVG5jUERkeTlPVk02bisrUUhCa2NlNlptbDZpRUtaNjh1QU9zNFVPN1JnelBRTmw0VXIwZVdDcjhaeGYzMXlJNlNwWXZUaXZFNWNMaXBENzRtRjlwdFdkY1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQyMjY0CWZpbGU6WCBCcmFuZHMgUE9TXzAuMjMuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yMy4yCnhHRHV2cTc1VHoxZ2tCSWx0QnAvblk2dHhxMlZURElOWlRINUFSSXB4andPTUJtV0k4QWJCd3V5ZzBGRWwwQ3JQVGdGcUx4Zm1xYWdWeGRzak5aREFRPT0K",
+      "url": "https://santasoperativo-afk.github.io/xbrands-pos-web/updates/XBrandsPOS_0.23.2_setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1gwVlZUVG5jUE1BOWZ2TEEzUHY1SWpRRUs4RWt4TE9HZ3loenhVa0ZHTTBjUVZya0YwWE1zWXVkbnFqZVM5b3ZQR2MyL3NzdlpERWwxdHk1NklabGw2RXdodlR1WWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQyMTI0CWZpbGU6WCBCcmFuZHMgUE9TLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIzLjIKc3pXQTJuSm9kYmtSaThFdFJTVjl2aGZFSFQrZHdESmFrQk0waFgvRng2eFhNaUhuWE8wY3MwcU5vVDVuQ2pQdDdwUlF3OTY5U1huV1o5YzN4c0RWRFE9PQo=",
+      "url": "https://santasoperativo-afk.github.io/xbrands-pos-web/updates/XBrandsPOS_0.23.2_mac.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1gwVlZUVG5jUE1BOWZ2TEEzUHY1SWpRRUs4RWt4TE9HZ3loenhVa0ZHTTBjUVZya0YwWE1zWXVkbnFqZVM5b3ZQR2MyL3NzdlpERWwxdHk1NklabGw2RXdodlR1WWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQyMTI0CWZpbGU6WCBCcmFuZHMgUE9TLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIzLjIKc3pXQTJuSm9kYmtSaThFdFJTVjl2aGZFSFQrZHdESmFrQk0waFgvRng2eFhNaUhuWE8wY3MwcU5vVDVuQ2pQdDdwUlF3OTY5U1huV1o5YzN4c0RWRFE9PQo=",
+      "url": "https://santasoperativo-afk.github.io/xbrands-pos-web/updates/XBrandsPOS_0.23.2_mac.app.tar.gz"
+    }
+  },
+  "android": {
+    "version": "0.23.2",
+    "url": "https://santasoperativo-afk.github.io/xbrands-pos-web/descargas/XBrandsPOS.apk"
+  }
+}
